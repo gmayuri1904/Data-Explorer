@@ -1,11 +1,12 @@
 # Data Explorer
 ![DATA](https://user-images.githubusercontent.com/95062628/187087508-4a16a57e-bf16-4d16-9c84-3e7fbf75e0f7.jpg)
 
+# Launch the web app here:
+<a href="https://drive.google.com/file/d/1jB2iTbMt5GOz0wvp4OUbyI_VyD0emFIo/view?usp=sharing"> Data Explorer </a>
+
 # Demo
 <a href="https://drive.google.com/file/d/1jB2iTbMt5GOz0wvp4OUbyI_VyD0emFIo/view?usp=sharing"> Demo </a>
-Launch the web app:
 
-[![Streamlit App]
 
 # Analysis and Pandas Profiling
 The various functions lets us undertstand the data, it's `datatypes` and  describe the features. We can get basic details about data as well as advanced `descriptive statistcs`. We can check if any `null values` are present, if yes we have the functionality to `fill` them using appropriate logic. Another automation method lets us check for `duplicates` and lets us `remove` them if desired.`pandas-profiling` generates profile reports from a pandas `DataFrame`. `pandas-profiling` extends pandas `DataFrame` with `df.profile_report()`, which automatically generates a standardized univariate and multivariate report for data understanding. We are proviede with an option to `download` the pandas `profile report`.
