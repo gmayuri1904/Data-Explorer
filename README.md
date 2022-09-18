@@ -1,11 +1,10 @@
 # Data Explorer
-![DATA](https://user-images.githubusercontent.com/95062628/187087508-4a16a57e-bf16-4d16-9c84-3e7fbf75e0f7.jpg)
-
 # Launch the web app here:
 <a href="https://youtu.be/GDyWKMQcyAY"> Data Explorer </a>
 
+
 # Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GDyWKMQcyAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+[![Screenshot (59)](https://user-images.githubusercontent.com/95062628/190929021-1a6654e1-00f5-4dff-a50b-b8d01443f87e.png)](https://youtu.be/GDyWKMQcyAY)
 
 
 # Analysis and Pandas Profiling
