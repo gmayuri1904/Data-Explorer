@@ -1,6 +1,6 @@
 # Data Explorer
 # Launch the web app here:
-<a href="https://youtu.be/GDyWKMQcyAY"> Data Explorer </a>
+<a href="https://gmayuriiii-data-explorer-app-q9bheu.streamlitapp.com/"> Data Explorer </a>
 
 
 # Demo
